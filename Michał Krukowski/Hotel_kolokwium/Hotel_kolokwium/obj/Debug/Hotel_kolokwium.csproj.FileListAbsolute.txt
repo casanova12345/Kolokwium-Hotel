@@ -1,0 +1,13 @@
+C:\Users\local\Desktop\Michał Krukowski\Hotel_kolokwium\Hotel_kolokwium\bin\Debug\Hotel_kolokwium.exe.config
+C:\Users\local\Desktop\Michał Krukowski\Hotel_kolokwium\Hotel_kolokwium\bin\Debug\Hotel_kolokwium.exe
+C:\Users\local\Desktop\Michał Krukowski\Hotel_kolokwium\Hotel_kolokwium\bin\Debug\Hotel_kolokwium.pdb
+C:\Users\local\Desktop\Michał Krukowski\Hotel_kolokwium\Hotel_kolokwium\obj\Debug\Hotel_kolokwium.csprojResolveAssemblyReference.cache
+C:\Users\local\Desktop\Michał Krukowski\Hotel_kolokwium\Hotel_kolokwium\obj\Debug\MainWindow.baml
+C:\Users\local\Desktop\Michał Krukowski\Hotel_kolokwium\Hotel_kolokwium\obj\Debug\MainWindow.g.cs
+C:\Users\local\Desktop\Michał Krukowski\Hotel_kolokwium\Hotel_kolokwium\obj\Debug\App.g.cs
+C:\Users\local\Desktop\Michał Krukowski\Hotel_kolokwium\Hotel_kolokwium\obj\Debug\Hotel_kolokwium_MarkupCompile.cache
+C:\Users\local\Desktop\Michał Krukowski\Hotel_kolokwium\Hotel_kolokwium\obj\Debug\Hotel_kolokwium.g.resources
+C:\Users\local\Desktop\Michał Krukowski\Hotel_kolokwium\Hotel_kolokwium\obj\Debug\Hotel_kolokwium.Properties.Resources.resources
+C:\Users\local\Desktop\Michał Krukowski\Hotel_kolokwium\Hotel_kolokwium\obj\Debug\Hotel_kolokwium.csproj.GenerateResource.Cache
+C:\Users\local\Desktop\Michał Krukowski\Hotel_kolokwium\Hotel_kolokwium\obj\Debug\Hotel_kolokwium.exe
+C:\Users\local\Desktop\Michał Krukowski\Hotel_kolokwium\Hotel_kolokwium\obj\Debug\Hotel_kolokwium.pdb
